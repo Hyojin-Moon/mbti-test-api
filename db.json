@@ -1,5 +1,12 @@
 {
-  "users": ["1"],
-  "tests": ["2"],
-  "results": ["3"]
+  "users": [
+    { "id": 1, "name": "Alice" },
+    { "id": 2, "name": "Bob" }
+  ],
+  "tests": [
+    { "id": 1, "question": "당신은 외향적입니까?" }
+  ],
+  "results": [
+    { "id": 1, "type": "ENTP", "description": "토론가 타입입니다." }
+  ]
 }

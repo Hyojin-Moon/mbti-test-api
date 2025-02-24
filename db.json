@@ -1,12 +1,22 @@
 {
-  "users": [
-    { "id": 1, "name": "Alice" },
-    { "id": 2, "name": "Bob" }
-  ],
-  "tests": [
-    { "id": 1, "question": "당신은 외향적입니까?" }
-  ],
-  "results": [
-    { "id": 1, "type": "ENTP", "description": "토론가 타입입니다." }
+  "testResults": [
+    {
+      "id": "2d87",
+      "userId": "moon",
+      "mbtiType": "INTJ",
+      "description": "조용한 전략가, 머리로 세상을 정복하다! INTJ는 조용히 세상을 바꾸는 사람들입니다. 이들은 항상 머릿속에서 복잡한 계획을 짜고 있으며, 모든 문제에 대한 해결책을 가지고 있어요. '세상을 더 나은 곳으로 만들 수 있어'라고 생각하며 하루하루를 보내죠. 하지만 가끔은 너무 혼자만의 세계에 빠져들어서 주변 사람들이 '저 사람은 지금 무슨 생각을 하고 있는 걸까?'라고 궁금해할 때가 있어요. 그래도 이들은 항상 한 발 앞서 나가는 인생의 전략가랍니다.",
+      "visibility": true,
+      "nickname": "변경테스트",
+      "avatar": "https://react-jwt-avatar.s3.ap-northeast-2.amazonaws.com/25-02-24/534a1eee-52a4-4056-b2b2-85020135f214.jpg"
+    },
+    {
+      "id": "0bf6",
+      "userId": "moon",
+      "mbtiType": "ESTJ",
+      "description": "체계적인 지휘관! ESTJ는 모든 것을 계획하고 조직하는 능력이 탁월한 사람들입니다. 이들은 무엇이든 정확하게 처리하고 싶어하며, '제대로 된 절차가 있으면 모든 게 순조롭게 진행될 수 있어'라는 믿음을 가지고 있어요. 그러나 가끔은 너무 엄격해서 주변 사람들이 '조금만 느긋하게 지내면 안 될까?'라고 묻고 싶을 때가 있을지도 몰라요. 그래도 이들은 확실히 모든 일을 끝내고야 마는 성격이에요.",
+      "visibility": true,
+      "nickname": "변경테스트",
+      "avatar": "https://react-jwt-avatar.s3.ap-northeast-2.amazonaws.com/25-02-24/534a1eee-52a4-4056-b2b2-85020135f214.jpg"
+    }
   ]
 }
